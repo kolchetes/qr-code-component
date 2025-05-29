@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: hsl(216, 15%, 48%);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    font-size: 1.5rem;
+}
+
+main { 
+    width: 250px;
+    height: fit-content;
+    padding: 1rem;
+
+    background-color: white;
+    border-radius: 1rem;
+   
+}
+
+.bold {
+    font-weight: 200;
+    font-size: 1.8rem;
+    margin: 1rem 0;
+}
+
+main p {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10%;
+}
+
+footer { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+footer a {
+     color: hsl(228, 45%, 44%); 
+}
