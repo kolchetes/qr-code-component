@@ -2,24 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <!-- displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
   <link rel="stylesheet" type="text/css" href="styles.css" />
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
-  
+ 
+  <!-- Custom Font-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
   
   <title>Frontend Mentor | QR code component</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-   
-  </style>
 </head>
 <body>
   <main>
-    <img src="images/image-qr-code.png" />
-    <p class="bold">Improve your front-end skills by building projects</p>
-
+    <figure>
+      <img class="qr-code-img" src="images/image-qr-code.png" alt="QR Code"/>
+      <figcaption class="bold">
+        Improve your front-end skills by building projects
+      </figcaption>
+    </figure>
     <p>
       Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
     </p>
