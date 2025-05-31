@@ -26,7 +26,7 @@ A QR Code Webpage
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-ZnjMxQUZDF
 - Live Site URL: https://kolchetes.github.io/qr-code-component/
 
 ## My process
