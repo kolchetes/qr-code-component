@@ -33,7 +33,8 @@ main {
 
 .bold {
     font-weight: 700;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
+    line-height: 120%;
     margin: 1rem 0;
 }
 
@@ -47,7 +48,7 @@ main p, figcaption {
 }
 
 footer { 
-    font-size: 11px; 
+    font-size: 1.5rem; 
     text-align: center; 
 }
 
