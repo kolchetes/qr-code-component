@@ -26,8 +26,8 @@ A QR Code Webpage
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-ZnjMxQUZDF
-- Live Site URL: https://kolchetes.github.io/qr-code-component/
+- Solution URL: [Solution]https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-ZnjMxQUZDF
+- Live Site URL: [Webpage]https://kolchetes.github.io/qr-code-component/
 
 ## My process
 
@@ -52,7 +52,7 @@ My goal is to keep practicing web development focusing on semantic html and mobi
 
 ### Useful resources
 
-- [Resource 1](https://www.aleksandrhovhannisyan.com/blog/62-5-percent-font-size-trick/) - A cool trick to keep in track with "rem" font size.
+- [CSS Font Trick](https://www.aleksandrhovhannisyan.com/blog/62-5-percent-font-size-trick/) - A cool trick to keep in track with "rem" font size.
 
 ## Author
 
